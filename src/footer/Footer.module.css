@@ -1,0 +1,22 @@
+.footer{
+    min-height: 200px;
+    background-color: #8c7dfa;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.socialNetwork{
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+

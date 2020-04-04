@@ -1,0 +1,13 @@
+.main{
+    min-height: 100vh;
+    background-color: #f8fa82;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+

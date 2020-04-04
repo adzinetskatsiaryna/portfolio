@@ -1,0 +1,17 @@
+.projects{
+    min-height: 100vh;
+    background-color: #fa9be2;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+}
+h2{
+    text-align: center;
+}
+ .content{
+    display: flex;
+    justify-content: space-between;
+}
+

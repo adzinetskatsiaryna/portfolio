@@ -1,0 +1,26 @@
+.contacts{
+    min-height: 100vh;
+    background-color: #ffe7b8;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.serchForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+textarea{
+    resize: none;
+    margin-bottom: 20px;
+}
+input{
+    margin-bottom: 20px;
+}
+

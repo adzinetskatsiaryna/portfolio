@@ -1,0 +1,19 @@
+.skills{
+    min-height: 100vh;
+    background-color: #46fa95;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+}
+.container h2{
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+

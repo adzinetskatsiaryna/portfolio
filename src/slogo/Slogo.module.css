@@ -1,0 +1,15 @@
+.slogo{
+    min-height: 250px;
+    background-color: #fa2c11;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+}
+.container p{
+    text-align: center;
+}
+
+
+
